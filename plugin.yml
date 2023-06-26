@@ -1,8 +1,8 @@
 ---
 name: EnchantShop
 main: Theslowaja\EnchantShop\Main
-version: 1.0.0
-api: 4.0.0
+version: 1.0.5+dev
+api: 5.0.0
 load: POSTWORLD
 author: Theslowaja
 depend: EconomyAPI
